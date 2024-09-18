@@ -17,7 +17,7 @@
     "react-native": "0.70.1",
     "react-native-file-viewer": "^2.1.5",
     "react-native-google-mobile-ads": "8.2.2",
-    "react-native-screens": "3.17.0",
+    "react-native-screens": "^3.34.0",
     "react-native-splash-screen": "3.3.0",
     "rn-fetch-blob": "0.12.0"
   },
