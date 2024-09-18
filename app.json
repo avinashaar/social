@@ -1,0 +1,8 @@
+{
+  "name": "AllForYou",
+  "displayName": "AllForYou",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7413044334609188~4960388535",
+    "ios_app_id": "ca-app-pub-7413044334609188~4960388535"
+  }
+}

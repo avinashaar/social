@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VidBubble</string>
+    <string name="facebook_app_id">646414970520675</string>
+    <string name="facebook_client_token">81610a3c144987075e1af6e6f3916bbd</string>
+</resources>
